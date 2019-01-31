@@ -1,1 +1,1 @@
-# template
+# Built from the Astrosites template
